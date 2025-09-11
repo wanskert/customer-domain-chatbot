@@ -10,7 +10,7 @@ customer support chatbot with RESTful microservices and Java backend, which accu
 ![license](https://img.shields.io/badge/license-MIT-informational)
 
 
-## ✨ Features
+##  Features
 - Zero‑shot intent classification (no training needed) using `typeform/distilbert-base-uncased-mnli`
 - Confidence threshold & fallback to smalltalk
 - Modular skill handlers (order status, refunds, product info, troubleshooting, smalltalk)
@@ -19,11 +19,11 @@ customer support chatbot with RESTful microservices and Java backend, which accu
 - Optional Dockerfile
 
 
-## 📂 Data (optional)
+##  Data (optional)
 Place a CSV at `data/intents.csv` with columns: `text, intent` to fine-tune later.
 
 
-## 🚀 Quickstart
+##  Quickstart
 ```bash
 python -m venv .venv && source .venv/bin/activate # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
